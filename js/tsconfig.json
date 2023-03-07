@@ -2,8 +2,8 @@
   "files": [],
   "include": [],
   "references": [
-    { "path": "./packages/ode/tsconfig.json" }
-    // { "path": "./packages/benchmark/tsconfig.json" },
-    // { "path": "./packages/walk-dir/tsconfig.json" }
+    { "path": "./packages/ode/tsconfig.json" },
+    { "path": "./packages/benchmark/tsconfig.json" },
+    { "path": "./packages/walk-dir/tsconfig.json" }
   ]
 }

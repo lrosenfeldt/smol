@@ -1,0 +1,27 @@
+{
+  "author": "Lukas Rosenfeldt",
+  "description": "Small projects and experiments in javascript / typescript.",
+  "keywords": [
+    "javascript",
+    "typescript"
+  ],
+  "license": "ISC",
+  "name": "@smol-js/monorepo",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc --build"
+  },
+  "devDependencies": {
+    "@types/eslint": "^8.21.1",
+    "@types/node": "^18.14.6",
+    "@typescript-eslint/eslint-plugin": "^5.54.1",
+    "@typescript-eslint/parser": "^5.54.1",
+    "eslint": "^8.35.0",
+    "eslint-config-prettier": "^8.7.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-simple-import-sort": "^10.0.0",
+    "prettier": "^2.8.4",
+    "typescript": "^4.9.5"
+  }
+}

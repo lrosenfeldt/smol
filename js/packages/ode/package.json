@@ -1,0 +1,11 @@
+{
+  "author": "Lukas Rosenfeldt",
+  "main": "./.build/index.js",
+  "name": "@smol-js/ode",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc --build ",
+    "dev": "pnpm run build && node ."
+  }
+}
